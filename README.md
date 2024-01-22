@@ -3,15 +3,16 @@
 ## Project Structure
 
 weather-app/
+
 |-- public/
+
 |   |-- index.html
-|   |-- ...
-|-- src/
-|   |-- server.js
-|   |-- ...
+
+|-- server.js
+
 |-- README.md
+
 |-- package.json
-|-- .gitignore
 
 
 ## Installation
