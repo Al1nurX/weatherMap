@@ -75,6 +75,8 @@
         <p>Humidity: ${data.main.humidity}%</p>
         <p>Pressure: ${data.main.pressure} hPa</p>
         <p>Wind Speed: ${data.wind.speed} m/s</p>
+	<p>Country Code: ${data.sys.country}</p>
+        <p>Rain Volume (last 3 hours): ${data.rain ? data.rain['3h'] : 0} mm</p>
       `;
 		}
 
