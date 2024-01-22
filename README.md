@@ -4,9 +4,9 @@
 
 weather-app/
 
-|-- public /
+|-- public/
 
-   |-- index.html
+-- |-- index.html
 
 |-- server.js
 
@@ -58,7 +58,6 @@ The Weather App is a web application that provides real-time weather information
 - Integration of two additional APIs for enhanced functionality.
 - Responsive design for optimal user experience on various devices.
 - Server running on port 3000.
-- Extended weather forecast feature (bonus task).
 
 ## Author
 
