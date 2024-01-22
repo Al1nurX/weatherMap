@@ -6,7 +6,7 @@ weather-app/
 
 |-- public/
 
-    |-- index.html
+|-- index.html
 
 |-- server.js
 
