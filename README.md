@@ -4,7 +4,7 @@
 
 weather-app/
 
-|-- public/
+|-- public /
 
    |-- index.html
 
